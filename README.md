@@ -5,7 +5,7 @@ I'm a Front-end React Developer & Teacher at [Pondok Pesantren Quran & IT Al Mah
 - 🔭 I’m currently learn NextJS and use it to build a software
 - ☕ My hobby is badminton
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about [NextJS](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
+- 💬 Ask me about [NextJS](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/)
 - ⚡ Fun fact: Knowledge is not free; you have to pay attention 🐰
 - Chat me on [Telegram](https://t.me/amrishf)
 - Email me at [G-mail](mailto:amrishf97@gmail.com)
