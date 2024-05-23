@@ -10,6 +10,7 @@ I'm a Front-end React Developer & Teacher at [Pondok Pesantren Quran & IT Al Mah
 - Chat me on [Telegram](https://t.me/amrishf)
 - Email me at [G-mail](mailto:amrishf97@gmail.com)
 - Instagram : https://instagram.com/amrishf
+- Motivation : "People do not decide their futures, they decide their habits and their habits decide their futures." 
 
 ### Github Stats
 
