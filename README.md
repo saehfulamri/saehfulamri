@@ -2,7 +2,7 @@
 
 I'm a Front-end React Developer & Teacher at [Pondok Pesantren Quran & IT Al Mahir](https://ppqita.com) in Boyolali, Jawa Tengah, Indonesia 🌆
 
-- 🔭 I am currently passionate about learning Next.js, PERN stack, Laravel with Inertia.js and React.js and using them to build software.
+- 🔭 I am currently passionate about learning Next.js, PERN stack, Laravel with Inertia.js and React.js and using them to build software
 - ☕ My hobbies are badminton, jogging, and reading books from various genres
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Next.js](https://nextjs.org/), Laravel with Inertia.js & React.js, PERN stack, and [TypeScript](https://www.typescriptlang.org/)
